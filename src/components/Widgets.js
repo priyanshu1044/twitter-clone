@@ -2,7 +2,9 @@ import React from 'react'
 
 function Widgets() {
   return (
-    <div>Widgets</div>
+    <div className='widgets'>
+      Widgets
+    </div>
   )
 }
 
